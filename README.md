@@ -33,6 +33,8 @@
   </a>
 </div>
 
+<br>
+
 <table border="0" style="border: none; border-collapse: collapse;">
 <tr>
 <td valign="top" width="50%" style="border: none;">
@@ -98,8 +100,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/adtyfathan/adtyfathan/output/snake.svg" alt="Snake animation" />
 
