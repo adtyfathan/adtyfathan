@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Fullstack Web Developer | Informatics Student</h2>
+<h3 align="center">Fullstack Web Developer | Informatics Student</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 <br>
 
-<table border="0" style="border: none; border-collapse: collapse;">
+<table border="0" style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%" style="border: none;">
 
