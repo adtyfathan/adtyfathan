@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! I'm Aditya Fathan Naufaldi</h2>
+<h1 align="center">Hi 👋! I'm Aditya Fathan Naufaldi</h1>
 
 ###
 
-<h3 align="center">Fullstack Web Developer | Informatics Student</h3>
+<h2 align="center">Fullstack Web Developer | Informatics Student</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="https://adtyfathan.vercel.app">https://adtyfathan.vercel.app</a>
+  <h3><a href="https://adtyfathan.vercel.app">https://adtyfathan.vercel.app</a></h3>
 </div>
 
 ###
@@ -39,7 +39,7 @@
 <tr>
 <td valign="top" width="50%" style="border: none;">
 
-<h4>💫 About Me</h4>
+<h3>💫 About Me</h3>
 
 <ul>
     <li>🎓 Informatics student at Universitas Jenderal Soedirman</li>
@@ -51,7 +51,7 @@
 </td>
 <td valign="top" width="50%" style="border: none;">
 
-<h4>💻 Tech Stack</h4>
+<h3>💻 Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
